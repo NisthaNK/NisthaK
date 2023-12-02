@@ -1,2 +1,2 @@
 # NisthaK
-my first ow github repo 
+my first own github repo 
